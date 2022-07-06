@@ -8,6 +8,6 @@
 void print_alphabet(void);
 {
 	char l;
-	for ( char l = 'a'; l<= 'z'; l ++){
+	for ( char l =a; l<=z; l ++){
 		printf("l/n")
 }
