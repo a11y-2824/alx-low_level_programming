@@ -2,10 +2,10 @@
 
 /**
  * largest_number -  prints out the largest of three numbers
- * a - first number
- * b - second number
- * c - third number
- * return - largest
+ * a : first number
+ * b : second number
+ * c : third number
+ * Return: largest
  *
  */
 int largest_number(int a, int b, int c)

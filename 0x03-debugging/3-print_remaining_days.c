@@ -3,10 +3,10 @@
 
 /**
  * print_remaining_days - converts a date to the day of year and determines how many days are left in the year, taking leap year into consideration
- * month - month
- * day - day of the year
- * year - year
- * return - 0
+ * month : month
+ * day : day of the year
+ * year : year
+ * Return : 0
  *
  */
 void print_remaining_days(int month, int day, int year)
