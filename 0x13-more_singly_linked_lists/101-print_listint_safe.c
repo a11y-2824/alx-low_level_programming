@@ -2,7 +2,7 @@
 #include <string.h>
 #include <stdio.h>
 #include "lists.h"
-#include <stdio.h>
+
 
 /**
  * print_listint_safe - print a linked list only one time
