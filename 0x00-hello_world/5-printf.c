@@ -1,8 +1,10 @@
 #include <stdio.h>
 
 /**
- * main - prints exactly "with proper grammar, but the outcome is a piece of art"
- * return : 0
+ * main - prints exact statement
+ *
+ * Description: prints statement followed with new line
+ * Return: 0
  */
 int main(void)
 {
