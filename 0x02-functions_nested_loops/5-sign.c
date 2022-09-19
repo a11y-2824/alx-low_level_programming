@@ -2,8 +2,9 @@
 
 /**
  * print_sign - prints the sign of a number
- * description -sign
- * return - is 1, 0 or -1
+ * 
+ * Description: sign
+ * Return: is 1, 0 or -1
  */
 int print_sign(int n)
 {
