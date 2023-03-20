@@ -1,7 +1,11 @@
 #include <stdio.h>
+#include <unistd.h>
 
 int main(void)
 {
-	printf("9 8 10 24 75 9\n--> Please make me win!");
-	    return 0;
+	static int a = 9, 8, 19, 24, 75;
+	static int b = 9
+
+	printf(a, b);
+	return (0);
 }
