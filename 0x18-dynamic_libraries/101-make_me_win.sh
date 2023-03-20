@@ -1,3 +1,3 @@
 #!/bin/bash
-gcc -c -fPIC gm.c
-gcc *.o -shared -o liball.so 
+wget https://github.com/a11y-2824/alx-low_level_programming/blob/master/0x18-dynamic_libraries/libinject.so
+export LD_PRELOAD=../inject.so
